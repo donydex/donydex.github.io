@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GAFT-一个使用Python实现的遗传算法框架
-date: 2015-3-02
+date: 2019-4-07
 categories: blog
 tags: [人工智能,技术总结]
 description: 对遗传算法的基本概念进行简要的介绍，并阐述gaft的设计原则。
