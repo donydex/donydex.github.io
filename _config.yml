@@ -1,8 +1,8 @@
 # Site settings
-title: 董尔希的博客 # 你的博客名字，可以定义修订
-header-img: "img/green.jpg"
+title: Dony's blog # 你的博客名字，可以定义修订
+header-img: "img/zhihu.jpg"
 tagline: "cn"  
-description: "这是我的博客"  # 一句话描述你的博客
+description: "一个人要像一支队伍"  # 一句话描述你的博客
 baseurl: ""
 url: "https://donydex.github.io"  # 此处填写你的博客地址 
 
@@ -13,15 +13,13 @@ owner:
   bio: "进一寸有进一寸的欢喜" # 填写作者信息：博客描述
 
 # Data
-gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
-favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
+gavatar: img/dolphin.gif # 浏览器地址栏小图标，可自定义更改
+favicon: img/dolphin.gif # 浏览器地址栏小图标，可自定义更改
 
-douban_username:  # 你的豆瓣id
-twitter_username: 
-github_username: 
-facebook_username: 
-weibo_username: 
-zhihu_username: 
+douban_username:  dony
+github_username: donydex
+#weibo_username: 
+zhihu_username: dony
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -43,8 +41,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "董尔希" # 你的名字
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      author: "dony" # 你的名字
+      header-img: "img/zhihu.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
