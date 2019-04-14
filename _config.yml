@@ -13,13 +13,13 @@ owner:
   bio: "进一寸有进一寸的欢喜" # 填写作者信息：博客描述
 
 # Data
-gavatar: img/snoopy.ico # 浏览器地址栏小图标，可自定义更改
+gavatar: img/snoopy.png # 浏览器地址栏小图标，可自定义更改
 favicon: img/snoopy.ico # 浏览器地址栏小图标，可自定义更改
 
-douban_username:  dony
-github_username: donydex
+#douban_username:  dony
+#github_username: donydex
 #weibo_username: 
-zhihu_username: dony
+#zhihu_username: dony
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -42,7 +42,7 @@ defaults:
     values:
       layout: "post"
       author: "dony" # 你的名字
-      header-img: "img/zhihu.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/twitter.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
