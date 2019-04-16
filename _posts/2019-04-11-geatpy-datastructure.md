@@ -1,3 +1,15 @@
+---
+layout: post
+title: Geatpy 数据结构
+date: 2019-4-07
+categories: blog
+tags: [人工智能,技术总结]
+description: 对遗传算法的基本概念进行简要的介绍，并阐述gaft的设计原则。
+
+---
+
+
+
 # Geatpy 数据结构
 
 ​	Geatpy 的大部分数据都是存储在numpy 的array 数组里的，numpy 中另外还有matrix的矩阵类型，但我们不适用它，于是我们默认array 就是存储“矩阵”(也可以存储一维向量，接下来会谈到)。其中有一些细节需要特别注意：numpy 的array 在表示行向量时会有2 种不同的结构，一种是1 行n 列的矩阵，它是二维的；一种是纯粹的一维行向量。因此，在Geatpy 教程中会严格区分这两种概念，我们称前者为“行矩阵”，后者为“行向量”。Geatpy 中不会使用超过二维的array。
