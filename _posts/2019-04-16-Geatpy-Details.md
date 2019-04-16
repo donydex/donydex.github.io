@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Geatpy detais
+title: Geatpy details
 date: 2019-4-16
 categories: blog
 tags: [人工智能,技术总结]
